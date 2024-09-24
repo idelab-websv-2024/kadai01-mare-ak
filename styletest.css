@@ -2,8 +2,8 @@ body {
   background-color: #FFF;
 }
 
-h1  {
-  color: #000;
+h1,h2  {
+  color: #ce0808;
 }
 
 div#test01 {
@@ -12,4 +12,33 @@ div#test01 {
 
 .important {
   color: #a00;
+}
+
+
+td,th{
+  border: solid thin;
+}
+
+.header{
+  background-color: aqua;
+}
+
+.ol{
+  background-color: rgb(174, 247, 247);
+}
+
+.el{
+  background-color: aquamarine;
+}
+
+div h1{
+  color: rgb(10, 10, 234);
+}
+
+.name{
+  text-align: center;
+}
+
+.last3{
+  font-weight: bold;
 }
